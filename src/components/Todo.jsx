@@ -2,7 +2,7 @@ import React from 'react'
 
 const Todo = () => {
   return (
-    <div>
+    <div className='bg-white place-self-center w-11/12 max-w-md flex lex-colum p-7 min-h-[550px] rounded-xl'>
 
     </div>
   )
