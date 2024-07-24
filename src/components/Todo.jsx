@@ -19,8 +19,11 @@ const Todo = () => {
         <button className='border-none rounded-full bg-orange-600 w-32 h-14 text-white text-l font-medium cursor-pointer'>ADD + </button>
     </div>
 
+{/*------------items----------------*/}
+
     <div>
-      <TodoItems/>
+      <TodoItems text='learn coding'/>
+      <TodoItems text='learn python'/>
     </div>
 
     </div>
